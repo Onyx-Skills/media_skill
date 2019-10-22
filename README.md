@@ -1,4 +1,4 @@
-# Media Skill
+# Media Skill DEPRECATED
 
 ## Usage:
 * `what is currently playing`
